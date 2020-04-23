@@ -1,0 +1,9 @@
+
+.vs/CS595_MinesweeperAgent/DesignTimeBuild/.dtbcache
+*.ide
+*.lock
+*.ide-shm
+*.ide-wal
+.vs/CS595_MinesweeperAgent/v16/.suo
+bin/
+obj/

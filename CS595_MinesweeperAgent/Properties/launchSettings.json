@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "CS595_MinesweeperAgent": {
+      "commandName": "Project"
+    },
+    "Test": {
+      "commandName": "Project",
+      "commandLineArgs": "-run"
+    },
+    "Random": {
+      "commandName": "Project",
+      "commandLineArgs": "-rand"
+    }
+  }
+}
