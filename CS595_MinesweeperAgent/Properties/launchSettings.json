@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "CS595_MinesweeperAgent": {
+    "Train": {
       "commandName": "Project"
     },
     "Test": {
